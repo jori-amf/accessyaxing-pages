@@ -1,2 +1,14 @@
 # accessyaxing-pages
-HTML page archive and documentation
+
+自动页面托管记录
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
